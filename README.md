@@ -92,7 +92,17 @@ Include screenshots of your visualizations if available:
 - Stacked Area Chart
 - Spline Chart
 
----
+### Part to Whole Charts
+- Pie chart
+- Donut pie chart
+- Heat maps
+- Stacked column chart
+- Treemap charts
+
+
+
+<!-- ### Visualize relationships
+- Bar Chart -->
 
 
 ---
@@ -100,6 +110,7 @@ Include screenshots of your visualizations if available:
 ## Credits
 
 - **Tutorials / References:** [Link](https://link.com)  
+- **DataCamp Visualization Cheat sheet:**  [Link](https://link.com)  
 
 ---
 
