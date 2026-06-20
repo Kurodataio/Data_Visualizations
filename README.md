@@ -110,9 +110,18 @@ Include screenshots of your visualizations if available:
 - Violin plot
 - Density plot
 
-<!-- ### Visualize relationships
-- Bar Chart -->
+### Visualize relationships
+- Bar Chart
+- Column Chart
+- Scatter plot
+- Connected scatter plot
+- Bubble chart
+- Wired cloud chart
 
+<!-- ### Visualize a flow
+- A
+- B
+- C -->
 
 ---
 
