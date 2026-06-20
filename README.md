@@ -118,10 +118,12 @@ Include screenshots of your visualizations if available:
 - Bubble chart
 - Wired cloud chart
 
-<!-- ### Visualize a flow
-- A
-- B
-- C -->
+<!-- 
+### Visualize a flow
+- Sankey chart
+- Chord chart
+- Network chart
+-->
 
 ---
 
