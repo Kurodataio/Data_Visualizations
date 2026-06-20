@@ -103,7 +103,12 @@ Include screenshots of your visualizations if available:
 - Card Component
 - Table Chart
 - Gauge Chart
-- 
+
+### Capture distributions
+- Histogram
+- Box plot
+- Violin plot
+- Density plot
 
 <!-- ### Visualize relationships
 - Bar Chart -->
