@@ -85,10 +85,12 @@ Include screenshots of your visualizations if available:
 ---
 
 ## Visualizations 
-
-- Describe the key trends and patterns you observed  
-- Show charts, graphs, and tables  ![Graph](img1.png)
-- Include important observations or correlations found in the data  
+### Capture a trend
+- Line Chart
+- Multi-line Chart
+- Area Chart
+- Stacked Area Chart
+- Spline Chart
 
 ---
 
