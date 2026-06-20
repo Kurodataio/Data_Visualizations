@@ -99,7 +99,11 @@ Include screenshots of your visualizations if available:
 - Stacked column chart
 - Treemap charts
 
-
+### Visualize a Single Value
+- Card Component
+- Table Chart
+- Gauge Chart
+- 
 
 <!-- ### Visualize relationships
 - Bar Chart -->
