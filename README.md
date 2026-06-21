@@ -118,19 +118,18 @@ Include screenshots of your visualizations if available:
 - Bubble chart
 - Wired cloud chart
 
-<!-- 
 ### Visualize a flow
 - Sankey chart
 - Chord chart
 - Network chart
--->
+
 
 ---
 
 ## Credits
 
-- **Tutorials / References:** [Link](https://link.com)  
-- **DataCamp Visualization Cheat sheet:**  [Link](https://link.com)  
+<!-- - **Tutorials / References:** [Link](https://link.com)   -->
+- **DataCamp Visualization Cheat sheet:**  [Link](https://www.datacamp.com/cheat-sheet/data-viz-cheat-sheet)  
 
 ---
 
