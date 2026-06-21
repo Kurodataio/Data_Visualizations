@@ -80,7 +80,7 @@ Instructions for using the project:
 
 Include screenshots of your visualizations if available:  
 
-![Visualization Example](assets/images/screenshot.png)  
+![Network Chart](images/Network_Chart.png)  
 
 ---
 
