@@ -2,7 +2,7 @@
 Data_Visualizations Examples
 
 
-[Notebook Link](https://github.com/xxxx.ipynb)  
+[Notebook Link](https://github.com/Kurodataio/Data_Visualizations/blob/main/data_visualizations.ipynb)  
 
 ---
 
@@ -77,8 +77,6 @@ Instructions for using the project:
 1. Open the main notebook (`data_visualizations.ipynb`)  
 2. Run each cell sequentially to reproduce the analysis  
 3. Visualizations and results will be generated automatically  
-
-Include screenshots of your visualizations if available:  
 
 ![Network Chart](images/Network_Chart.png)  
 
