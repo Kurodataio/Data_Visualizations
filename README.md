@@ -48,6 +48,12 @@ Data_Visualizations Examples
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
+  <img src="https://img.shields.io/badge/Wordcloud-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Wordcloud">
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
+  <img src="https://img.shields.io/badge/Squarify-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Squarify">
+  <img src="https://img.shields.io/badge/NetworkX-007ACC?style=for-the-badge&logo=networkx&logoColor=white" alt="NetworkX">
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
+
 </p>
 
 ---
