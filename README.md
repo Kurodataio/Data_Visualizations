@@ -21,17 +21,14 @@ Data_Visualizations Examples
 
 ## Overview
 
-- **Motivation:** Why did you choose this dataset or problem?  
-- **Objective:** What question(s) are you trying to answer through this analysis?  
-- **Learning Outcomes:** What did you learn while working on this project?  
+- This visualization project was based on the Datacamp Visualizatio cheatsheet
+- There are 26 visualisation types groupd into 6 catagories
 
 ---
 
 ## Dataset
 
-- Source of the dataset (link if available)  
-- Size of the dataset (# of rows and columns)  
-
+- The datasets are synthetically generated for the visualizations
 
 ---
 
