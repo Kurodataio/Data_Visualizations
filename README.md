@@ -21,8 +21,8 @@ Data_Visualizations Examples
 
 ## Overview
 
-- This visualization project was based on the Datacamp Visualizatio cheatsheet
-- There are 26 visualisation types groupd into 6 catagories
+- This visualization project was based on the Datacamp Visualizations cheatsheet
+- There are 26 visualisation types grouped into 6 catagories
 
 ---
 
