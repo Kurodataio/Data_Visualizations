@@ -90,7 +90,7 @@ Instructions for using the project:
 - Line Chart: Captures a numeric variable over time using straight line between points
 - Multi-line Chart: Captures multiple numeric variables over time
 - Area Chart: Captures how a numeric variable changes over time by showing the area between the line and the x-axis
-- Stacked Area Chart
+- Stacked Area Chart: Captures how sub-groups of numeric variables changes over time by showing the area between the line and the x-axis
 - Spline Chart
 
 ### Part to Whole Charts
