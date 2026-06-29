@@ -88,7 +88,7 @@ Instructions for using the project:
 ## Visualizations 
 ### Capture a trend
 - Line Chart: Captures a numeric variable over time using straight line between points
-- Multi-line Chart
+- Multi-line Chart: Captures multiple numeric variables over time
 - Area Chart
 - Stacked Area Chart
 - Spline Chart
