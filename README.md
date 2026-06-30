@@ -97,7 +97,7 @@ Instructions for using the project:
 - Pie chart: Captures the ratio of a part to a whole. Typically used for percentages
 - Donut pie chart: A variant of the pie chart with a doughnut hole to improve readability
 - Heat maps: Captures two dimensinal trends by using colour shading
-- Stacked column chart
+- Stacked column chart: Captures ratios or percentages of subcategories within categorical data
 - Treemap charts
 
 ### Visualize a Single Value
