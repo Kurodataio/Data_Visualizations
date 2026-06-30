@@ -98,7 +98,7 @@ Instructions for using the project:
 - Donut pie chart: A variant of the pie chart with a doughnut hole to improve readability
 - Heat maps: Captures two dimensinal trends by using colour shading
 - Stacked column chart: Captures ratios or percentages of subcategories within categorical data
-- Treemap charts
+- Treemap charts: Captures hierarchically structured data into 2d rectangles sized proportionally to value sizes
 
 ### Visualize a Single Value
 - Card Component
