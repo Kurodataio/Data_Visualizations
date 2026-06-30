@@ -94,7 +94,7 @@ Instructions for using the project:
 - Spline Chart: Captures a numeric variable over time but uses smooth curves between data points
 
 ### Part to Whole Charts
-- Pie chart
+- Pie chart: Captures the ratio of a part to a whole. Typically used for percentages
 - Donut pie chart
 - Heat maps
 - Stacked column chart
