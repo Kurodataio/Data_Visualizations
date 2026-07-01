@@ -109,7 +109,7 @@ Instructions for using the project:
 - Histogram: Captures the distribution of a variable. COnverts numerical value into bins/columns
 - Box plot: Shows the distribution of a variable using 5 key statistical values: Min, Max, median, 1st & 3rd quartile
 - Violin plot: Variation of the box plot
-- Density plot
+- Density plot: Shows distribution shape of the data
 
 ### Visualize relationships
 - Bar Chart
