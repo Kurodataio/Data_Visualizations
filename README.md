@@ -106,7 +106,7 @@ Instructions for using the project:
 - Gauge Chart
 
 ### Capture distributions
-- Histogram
+- Histogram: Captures the distribution of a variable. COnverts numerical value into bins/columns
 - Box plot
 - Violin plot
 - Density plot
