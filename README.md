@@ -107,7 +107,7 @@ Instructions for using the project:
 
 ### Capture distributions
 - Histogram: Captures the distribution of a variable. COnverts numerical value into bins/columns
-- Box plot
+- Box plot: Shows the distribution of a variable using 5 key statistical values: Min, Max, median, 1st & 3rd quartile
 - Violin plot
 - Density plot
 
